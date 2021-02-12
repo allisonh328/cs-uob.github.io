@@ -13,9 +13,9 @@
 | 15:00 | Software Tools Lab (cont.) | [OOP/Java Lab](https://teams.microsoft.com/l/team/19%3aa36bf10343c24f15a5dd779f8ccdf2fe%40thread.tacv2/conversations?groupId=ae5b71e8-e396-438f-9f02-49f2682d64e6&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) | Seminars and Events (cont.)*** |  |  |
 | 16:00 |       | OOP/Java Lab (cont.) |   |          |        |
 
-*Academic tutorials: These are TA-led tutorials filled with useful information about the course and beyond. A _tentative_ schedule of topics is in the term calendar. You can find your group [here](https://teams.microsoft.com/l/file/8E1D22D0-1953-43AF-AEA9-FA0DDE185F71?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&fileType=pdf&objectUrl=https%3A%2F%2Fuob.sharepoint.com%2Fteams%2Fgrp-grp-COMSM1201copy%2FShared%20Documents%2FGeneral%2FGroups.pdf&baseUrl=https%3A%2F%2Fuob.sharepoint.com%2Fteams%2Fgrp-grp-COMSM1201copy&serviceName=teams&threadId=19:7807ee64a1d343cd8e9fcd020ceff372@thread.tacv2&groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21).  
-**Individual/Group tutorials: These time slots are reserved for individual and group tutorials. These will vary week to week and student to student. Check your individual timetable and look out for emails from your tutor for information about when and how to meet.  
-***This Wednesday afternoon timeslot is reserved for CSS (and others) to schedule industry seminars and events. It may not be used every week. The calendar below should be kept up to date, so if you don't see event details for a particular Wednesday, you may consider it free time.  
+\* Academic tutorials: These are TA-led tutorials filled with useful information about the course and beyond. A _tentative_ schedule of topics is in the term calendar. You can find your group [here](https://teams.microsoft.com/l/file/8E1D22D0-1953-43AF-AEA9-FA0DDE185F71?tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b&fileType=pdf&objectUrl=https%3A%2F%2Fuob.sharepoint.com%2Fteams%2Fgrp-grp-COMSM1201copy%2FShared%20Documents%2FGeneral%2FGroups.pdf&baseUrl=https%3A%2F%2Fuob.sharepoint.com%2Fteams%2Fgrp-grp-COMSM1201copy&serviceName=teams&threadId=19:7807ee64a1d343cd8e9fcd020ceff372@thread.tacv2&groupId=5519f6d5-7f42-4b56-ab80-f60123e60a21).  
+\*\* Individual/Group tutorials: These time slots are reserved for individual and group tutorials. These will vary week to week and student to student. Check your individual timetable and look out for emails from your tutor for information about when and how to meet.  
+\*\*\* This Wednesday afternoon timeslot is reserved for CSS (and others) to schedule industry seminars and events. It may not be used every week. The calendar below should be kept up to date, so if you don't see event details for a particular Wednesday, you may consider it free time.  
 
 ## Term Calendar
 
@@ -23,16 +23,16 @@
 | :---    | :---: | :---: | :---: | :----: | :---: |
 | 1 Feb   | Introduction to Objects | Introduction | Linux/POSIX, shell, git | Documentation |  |
 | 8 Feb   | Further Language Constructs | Agile, team collaboration | Linux/POSIX, shell, git | Functional Programming vs OOP |  |
-| 15 Feb  | Secret | System stack | Build systems, environments, debuggers | Python 1 | 16/2/21 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b) |
-| 22 Feb  | Secret | Front end | Catch up/Q&A | Python 2 | **OOP/Java: OXO Due** |
+| 15 Feb  | Polymorphism and Collections | System stack | Catch up/Q&A | TA Research Presentations | 16/2 @ 10:00: [Project Q&A](https://teams.microsoft.com/l/channel/19%3ae0e5d61994e544cb91c6467c6d7d1a78%40thread.tacv2/General?groupId=a7524922-3f0b-4e0b-af8e-40f5f415d3c4&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)<br/> Academic Tutorials at 11:00 - choose channel by topic |
+| 22 Feb  | Error Handling | Front end | Build systems, environments, debuggers | Topic Presentations | 26/2 @ 13:00: **OOP/Java - OXO Due**<br/>Academic Tutorials at 11:00 - choose channel by topic|
 | 1 Mar   | --- | --- | --- | --- | READING WEEK |
 | 8 Mar   | Secret | Middle Tier | Databases (MariaDB) | Project Info |  |
 | 15 Mar  | Secret | Back End | Databases (MariaDB) | Project Info |  |
-| 22 Mar  | Secret | Deployment | Web technologies | Project Info |  |
+| 22 Mar  | Secret | Deployment | Web technologies | Project Info | 26/3 @ 13:00: **OOP/Java - DB Due** |
 | 29 Mar  | --- | --- | --- | --- | EASTER BREAK |
 | 5 Apr   | --- | --- | --- | --- | EASTER BREAK |
 | 12 Apr  | --- | --- | --- | --- | EASTER BREAK |
 | 19 Apr  | Secret | Sprints | Web technologies | Algorithms |  |
 | 26 Apr  | Secret | Sprints | Cloud | Design Patterns |  |
-| 3 May   | Secret | Sprints | Cloud | Tools | **Software Engineering: Project Due** |
+| 3 May   | Secret | Sprints | Cloud | Tools | 7/5 @ 13:00: **OOP/Java - STAG Due**<br/>**Software Engineering: Project Due** |
 | 10 May  | Secret | N/A | Revision | TBD |  |
